@@ -6,7 +6,9 @@ Placeholder logic that will be ported to be used in a web site.
 ``node scale.js a b c``
 
 a = Max Concurrent Authors on a pad
+
 b = Max Concurrent Lurkers on a pad
+
 c = Max Concurrent Active Pads
 
 ## Output
